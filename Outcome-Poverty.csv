@@ -1,4 +1,4 @@
-State,FIPS,County,Year,%_of_Population_in_Poverty,Stability
+State,FIPS,County,Year,Percent_of_Population_in_Poverty,Stability
 Alabama,1001,Autauga,2000,10.50,1
 Alabama,1001,Autauga,2001,10.80,1
 Alabama,1001,Autauga,2002,10.30,1
