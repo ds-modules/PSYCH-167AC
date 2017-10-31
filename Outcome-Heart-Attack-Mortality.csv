@@ -1,4 +1,4 @@
-,State,FIPS,County,Year,HEART ATTACK MORTALITY | CRUDE RATE OF DEATH FROM HEART ATTACK AMONG PERSONS 35 AND OLDE,Stability
+,State,FIPS,County,Year,Heart_Attack_Mortality,Stability
 0,Alabama,1001,Autauga,2000,220.8,1
 1,Alabama,1001,Autauga,2001,100.7,1
 2,Alabama,1001,Autauga,2002,68.2,1

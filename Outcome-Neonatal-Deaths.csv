@@ -1,4 +1,4 @@
-State,FIPS,County,Year,"Neonatal deaths per 1,000",Stability
+State,FIPS,County,Year,Neonatal_deaths_per_1000,Stability
 Alabama,1001,Autauga,2000-2004,2,1
 Alabama,1001,Autauga,2001-2005,3,1
 Alabama,1001,Autauga,2002-2006,3,1
