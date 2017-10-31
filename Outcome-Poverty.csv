@@ -1,4 +1,4 @@
-State,FIPS,County,Year,% of Population in Poverty,Stability
+State,FIPS,County,Year,%_of_Population_in_Poverty,Stability
 Alabama,1001,Autauga,2000,10.50,1
 Alabama,1001,Autauga,2001,10.80,1
 Alabama,1001,Autauga,2002,10.30,1
@@ -7657,16 +7657,6 @@ Hawaii,15005,Kalawao,2000,0.00,1
 Hawaii,15005,Kalawao,2001,0.00,1
 Hawaii,15005,Kalawao,2002,0.00,1
 Hawaii,15005,Kalawao,2003,0.00,1
-Hawaii,15005,Kalawao,2004,No Data,1
-Hawaii,15005,Kalawao,2005,No Data,1
-Hawaii,15005,Kalawao,2006,No Data,1
-Hawaii,15005,Kalawao,2007,No Data,1
-Hawaii,15005,Kalawao,2008,No Data,1
-Hawaii,15005,Kalawao,2009,No Data,1
-Hawaii,15005,Kalawao,2010,No Data,1
-Hawaii,15005,Kalawao,2011,No Data,1
-Hawaii,15005,Kalawao,2012,No Data,1
-Hawaii,15005,Kalawao,2013,No Data,1
 Hawaii,15007,Kauai,2000,10.30,1
 Hawaii,15007,Kauai,2001,11.10,1
 Hawaii,15007,Kauai,2002,11.10,1
